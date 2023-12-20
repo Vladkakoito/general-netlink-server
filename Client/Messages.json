@@ -1,0 +1,94 @@
+[
+  {
+    "action": "plus",
+    "argument_1": 1,
+    "argument_2": 2
+  },
+  {
+    "action": "minus",
+    "argument_1": 1,
+    "argument_2": 2
+  },
+  {
+    "action": "multi",
+    "argument_1": 2,
+    "argument_2": 2
+  },
+  {
+    "action": "div",
+    "argument_1": 1,
+    "argument_2": 2
+  },
+  {
+    "action": "plus",
+    "argument_1": 1,
+    "argument_2": 2,
+    "argument_3": 3,
+    "argument_4": 4
+  },
+  {
+    "action": "multi",
+    "argument_1": 1,
+    "argument_2": 2,
+    "argument_3": 3,
+    "argument_4": 4
+  },
+  {
+    "action": "minus",
+    "argument_1": 1,
+    "argument_2": 2,
+    "argument_3": 3,
+    "argument_4": 4
+  },
+  {
+    "action": "div",
+    "argument_1": 1,
+    "argument_2": 2,
+    "argument_3": 3,
+    "argument_4": 4
+  },
+  {
+    "action": "div",
+    "argument_1": 1,
+    "argument_2": 0
+  },
+  {
+    "action": "div",
+    "argument_1": 6,
+    "argument_2": 3
+  },
+  {
+    "action": "plus",
+    "argument_1": 6,
+    "argument_50": 3
+  },
+  {
+    "action": "minus",
+    "argument_50": 6,
+    "argument_1": 3
+  },
+  {
+    "action": "multi",
+    "argument_1": 6,
+    "argument_101": 3
+  },
+  {
+    "action": "multi",
+    "argument_1": 6,
+    "argument_2": 3,
+    "argument_3": 3,
+    "argument_5": 3
+  },
+  {
+    "action": "plus",
+    "argument_0": 3,
+    "argument_1": 3,
+    "argument_2": 3,
+    "argument_3": 3
+  },
+  {
+    "action": "minus",
+    "argument_0": 3,
+    "argument_1": 3
+  }
+]
